@@ -1,1 +1,0 @@
-import{_ as o,r as t,o as c,b as n,w as s,g as _}from"./index.b3f7048f.js";const r={},a=_("\u9009\u62E9\u56FE\u6807");function i(d,f){const e=t("m-choose-icon");return c(),n(e,{title:"\u9009\u62E9\u56FE\u6807"},{default:s(()=>[a]),_:1})}var l=o(r,[["render",i]]);export{l as default};
