@@ -1,0 +1,1 @@
+import{_ as e,o as t,c}from"./index.b89dc633.js";const n={},o={style:{"font-size":"50px","text-align":"center","line-height":"200px"}};function r(s,_){return t(),c("h1",o," vue3+typecript+vite2+element-plus\u4E8C\u6B21\u5C01\u88C5\u7EC4\u4EF6 ")}var i=e(n,[["render",r]]);export{i as default};
