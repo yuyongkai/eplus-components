@@ -1,0 +1,1 @@
+import{_ as r,r as n,o as s,c as a,f as t,F as c}from"./index.f7e8e1d0.js";const o={};function i(p,m){const e=n("m-progress");return s(),a(c,null,[t(e,{percentage:60,isAnimate:""}),t(e,{"text-inside":!0,"stroke-width":26,percentage:70,isAnimate:""}),t(e,{type:"circle",status:"exception",percentage:60,isAnimate:""})],64)}var l=r(o,[["render",i]]);export{l as default};
